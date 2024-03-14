@@ -3,4 +3,5 @@
 
 loadstring(game:HttpGet('https://icehub.cf/IceHubLoader'))()
 
-  script here☝🏼☝🏼☝🏼☝🏼
+  script here copy☝🏼☝🏼☝🏼☝🏼
+  enjoy
